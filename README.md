@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/royalmanenzhe" target="blank"><img src="https://img.shields.io/twitter/follow/royalmanenzhe?logo=twitter&style=for-the-badge" alt="royalmanenzhe" /></a> </p>
 
-- 🔭 I’m currently working on **fleet Management**
+- 🔭 I’m currently working on **fleet Management project**
 
-- 🌱 I’m just currently learned **Ruby Rails framework,javascrips and css**
+- 🌱 I’m just currently learned **Ruby Rails framework,javascrips,html and css**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
