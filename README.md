@@ -9,7 +9,9 @@
 
 - 🔭 I’m currently working on **fleet Management project**
 
-- 🌱 I’m just currently learned **Ruby Rails framework,javascrips,html and css**
+- 🌱 I’m just currently learned **Python framework,cloud, AI**
+
+- 🌱 I’m have learned **Ruby Rails framework,javascrips,html and css**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
